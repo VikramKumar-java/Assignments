@@ -3,12 +3,13 @@ package com.vcube.lab;
 import java.util.Scanner;
 
 public class Test12 {
-	public void welcomeMsg() {
-		System.out.println("hii sir good morning:");
-	}
-	
+
 	public void hello() {
 		System.out.println("***************customer bill*********************");
+	}
+
+	public void welcomeMsg() {
+		System.out.println("hii sir good morning:");
 	}
 
 	public void nameOfCompany(String name) {
